@@ -1,5 +1,5 @@
 # ada_test
-esto es una prueba. 
+esto es una prueba. para el conflicto 
 este es mi primer commit
 modificar
 
